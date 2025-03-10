@@ -21,6 +21,16 @@ header {
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
 }
 
+
+/* On centre le contenu dans main */
+main {
+    display: flex;
+    justify-content: center; /* Centrer horizontalement */
+    align-items: center;     /* Centrer verticalement */
+    min-height: 100vh;       /* S'assurer que le main occupe toute la hauteur de l'écran */
+    padding: 20px;           /* Ajout d'un peu d'espace intérieur */
+}
+
 /* Contenu principal */
 main {
     backdrop-filter: blur(5px); /* Flou léger pour l'arrière-plan */
@@ -33,6 +43,11 @@ main {
     background-position: center;
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.7); /* Ombre portée */
     color: #d4af37; /* Textes en doré pour ressortir sur fond sombre */
+    display: flex;
+    justify-content: center; /* Centrer horizontalement */
+    align-items: center;     /* Centrer verticalement */
+    min-height: 100vh;       /* S'assurer que le main occupe toute la hauteur de l'écran */
+    padding: 20px; 
 }
 
 /* Globalement, ajoutons une transition de base pour tous les éléments */
@@ -91,11 +106,9 @@ button:active {
 
 /* Ajout de marges et de bordures aux éléments de contenu */
 .container {
-    margin: 0 auto;
-    padding: 40px;
+    margin: 0;
     border-radius: 15px;
     background: linear-gradient(135deg, rgba(37, 23, 23, 0.85), rgba(54, 0, 0, 0.9), rgba(15, 15, 15, 0.85)); /* Dégradé de couleurs sombres */
-    max-width: 1200px;
     width: 100%;
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.5); /* Ombre portée pour l'effet de profondeur */
 }
@@ -134,22 +147,4 @@ h2, h3, p {
     text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.4);
 }
 
-/* Responsivité : réduire la taille des éléments sur les petits écrans */
-@media (max-width: 768px) {
-    header {
-        font-size: 2em;
-    }
 
-    button {
-        font-size: 1em;
-        padding: 10px 18px;
-    }
-
-    .container {
-        padding: 20px;
-    }
-
-    p {
-        font-size: 1em;
-    }
-}
