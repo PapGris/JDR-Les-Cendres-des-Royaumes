@@ -1,0 +1,145 @@
+Titre de la campagne : Les Cendres des Royaumes
+Résumé :
+Dans une région isolée, le Mont Noir, un volcan ancien, s’éveille à nouveau, menaçant de plonger le monde dans un âge de ténèbres. 
+Pour empêcher la catastrophe, les aventuriers doivent retrouver un artefact mythique, l’Œil de Cendre, scellé depuis des siècles dans 
+une grotte maudite. L’artefact est protégé par des factions rivales et entouré d’environnements périlleux : un village gobelin farouche, 
+une forêt enchantée pleine de secrets, un marais empoisonné grouillant de dangers, et finalement le volcan lui-même. 
+Chaque choix des joueurs influencera non seulement leur destinée, mais aussi l’équilibre de la région entière.
+
+Acte I : L’Éveil des Flammes
+
+Session 1 : Une menace au loin
+Point de départ :
+Les aventuriers se trouvent dans le village humain de Rochebrise, situé à l’ombre du Mont Noir. 
+Des secousses sismiques et des rumeurs de créatures de feu hantent les environs. 
+Le maire, Elda Caren, leur demande d’enquêter sur l’activité volcanique et de trouver un moyen de l’arrêter.
+
+Rencontres clés :
+
+Maître Alaric, un vieux mage reclus, raconte l’histoire de l’Œil de Cendre, un artefact capable de contenir la puissance du volcan. 
+Il indique trois lieux où se trouvent des indices :
+
+Trouboue, un village gobelin qui pourrait posséder des cartes anciennes.
+La Forêt de Sombreciel, où une ancienne dryade garde une relique liée à l’artefact.
+Le Marais d’Ébène, où un temple englouti abriterait des fragments d’un rituel nécessaire.
+Un mystérieux étranger, Lorcan, avertit les aventuriers que d’autres factions, dont un culte du feu, cherchent également 
+l’artefact pour éveiller un démon du magma.
+
+Premiers choix : Comment agir ?
+
+Explorer immédiatement un des trois lieux.
+Les joueurs choisissent leur direction, influençant l’ordre des événements et des ennemis rencontrés.
+S’informer davantage à Rochebrise.
+Cela révèle des détails utiles (factions ennemies, dangers locaux), mais retarde leur progression, 
+augmentant l’activité volcanique et les attaques de créatures de feu.
+
+Acte II : Les Trois Lieux
+
+Le Village Gobelin de Trouboue
+Trouboue est une enclave de gobelins excentriques et belliqueux, dirigée par leur chef, Grukfang le Rusé, qui 
+conserve une vieille carte indiquant l’emplacement de la grotte.
+
+Défis :
+
+Négociation :
+
+Grukfang exige que les aventuriers éliminent une meute de gnolls qui menace leurs caravanes.
+Conséquences positives : Les gobelins deviennent des alliés, offrant des explosifs artisanaux et des cartes détaillées.
+Conséquences négatives : Aider les gobelins provoque l’hostilité des marchands humains de Rochebrise.
+Voler la carte :
+
+Les joueurs infiltrent le village, mais doivent déjouer des pièges rudimentaires et des patrouilles gobelines.
+Conséquences positives : Ils récupèrent la carte rapidement.
+Conséquences négatives : Les gobelins deviennent un ennemi récurrent, lançant des embuscades.
+La Forêt Enchantée de Sombreciel
+Une forêt magique, baignée de lumières surnaturelles, regorge de pixies malicieux, d’élémentaires de bois, et de mystères. 
+La dryade Sylthana, gardienne de la forêt, possède un fragment du rituel nécessaire pour activer l’Œil de Cendre.
+
+Défis :
+
+Gagner la confiance de Sylthana :
+
+Elle demande de sauver un arbre sacré attaqué par un groupe de bûcherons armés.
+Conséquences positives : Sylthana offre un talisman lumineux qui éclairera la grotte obscure et réduit les chances de 
+combat futur avec les créatures magiques.
+Conséquences négatives : S’opposer aux bûcherons entraîne une confrontation avec un groupe armé de Rochebrise.
+Ignorer Sylthana et forcer l’entrée dans le sanctuaire :
+
+Cela implique de vaincre des élémentaires et des illusions, mais les aventuriers trouvent le fragment sans aide.
+Conséquences positives : Pas d’engagement moral.
+Conséquences négatives : La forêt devient hostile : des embuscades magiques menacent le groupe.
+Le Marais d’Ébène
+Ce marais putride regorge de gaz toxiques, de basilics, et d’ombres mouvantes. Le temple englouti au centre 
+abrite une ancienne tablette contenant le rituel final pour l’Œil de Cendre.
+
+Défis :
+
+Négocier avec Zarasha, l’esprit du marais :
+
+Elle propose un échange : détruire un camp de cultistes du feu qui polluent les eaux.
+Conséquences positives : Zarasha purifie une partie du marais, rendant l’accès au temple plus sûr.
+Conséquences négatives : Les cultistes survivent et préparent une contre-attaque.
+Éviter Zarasha et explorer le temple seuls :
+
+Les joueurs affrontent des créatures du marais et des pièges aquatiques.
+Conséquences positives : Ils obtiennent le rituel rapidement.
+Conséquences négatives : Zarasha devient une ennemie, invoquant des monstres pour les traquer.
+
+Acte III : La Grotte des Ombres
+
+Sessions 6-7 : Le Cœur des Ténèbres
+Les informations obtenues mènent les aventuriers à une grotte située à flanc de volcan, plongée dans une obscurité surnaturelle.
+
+Défis :
+
+Les joueurs doivent naviguer dans l’obscurité totale à l’aide de lumières magiques ou improvisées.
+Des monstres comme des lurkers dans les ténèbres, des spectres, et des mimics testent leur ingéniosité.
+Ils trouvent l’Œil de Cendre au centre d’un puzzle magique nécessitant les fragments et le rituel réunis.
+Choix : Que faire de l’Œil de Cendre ?
+
+L’activer pour apaiser le volcan.
+
+Conséquences positives : Le volcan est calmé temporairement.
+Conséquences négatives : Cela affaiblit la barrière magique protégeant la région des forces du chaos.
+Ne pas l’activer et le conserver comme arme.
+
+Conséquences positives : L’artefact reste utilisable contre des ennemis futurs.
+Conséquences négatives : Le volcan devient plus instable, provoquant des catastrophes naturelles.
+
+Acte IV : Le Combat Final au Volcan
+
+Sessions 8-10 : Une bataille dans les flammes
+Le culte du feu atteint le sommet du Mont Noir pour invoquer un démon du magma. Les aventuriers doivent les arrêter avant 
+qu’ils ne déclenchent une éruption cataclysmique.
+
+Défis :
+
+Des vagues d’ennemis : élémentaires de feu, golems de lave, et des cultistes fanatiques.
+Un combat final contre le Grand Prêtre Pyros et le Démon de Brasier.
+Choix final :
+
+Détruire l’Œil de Cendre pour bannir le démon :
+
+Conséquences positives : Le démon est vaincu, et le volcan est scellé pour des siècles.
+Conséquences négatives : L’artefact est perdu, privant le monde de sa protection.
+Utiliser l’Œil pour contrôler le démon :
+
+Conséquences positives : Les aventuriers peuvent utiliser le démon comme arme puissante.
+Conséquences négatives : Le volcan reste actif, mettant la région en péril.
+Ne rien faire :
+
+Le démon est libéré, déclenchant un âge de destruction.
+Épilogue : L’Héritage des Aventuriers
+Les décisions des joueurs affectent la région pour les générations à venir :
+
+Le village gobelin, la forêt, et le marais prospèrent ou sombrent dans le chaos selon les alliances.
+Le Mont Noir est soit apaisé, soit une menace permanente.
+Les aventuriers deviennent des héros, des figures controversées, ou des parias, selon leurs choix.
+Cette structure offre un équilibre entre exploration, moralité, et conséquences majeures !
+
+
+
+
+
+
+
