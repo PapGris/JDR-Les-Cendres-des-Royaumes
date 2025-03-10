@@ -106,9 +106,11 @@ button:active {
 
 /* Ajout de marges et de bordures aux éléments de contenu */
 .container {
-    margin: 0;
+    margin: 0 auto;
+    
     border-radius: 15px;
     background: linear-gradient(135deg, rgba(37, 23, 23, 0.85), rgba(54, 0, 0, 0.9), rgba(15, 15, 15, 0.85)); /* Dégradé de couleurs sombres */
+    max-width: 1200px;
     width: 100%;
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.5); /* Ombre portée pour l'effet de profondeur */
 }
