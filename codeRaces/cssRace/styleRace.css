@@ -1,12 +1,14 @@
+
+
 /* Corps de la page */
 body {
     font-family: 'Garamond', serif;
     background-image: url(../images/backgroundDarkFantaisy.png); /* Image de fond */
-    background-position: 100%;
+    background-position: top 100%;
     background-color: #3b0a45; /* Rouge sombre de fond */
     color: #d4af37; /* Couleur dorée pour le texte */
     text-align: center;
-    margin: 20px;
+    margin: 0;
     padding: 0;
     line-height: 1.6;
 }
@@ -27,6 +29,7 @@ main {
     backdrop-filter: blur(5px);
     border-radius: 10px;
     border: solid 2px #732626;
+    margin: 50px;
 }
 
 /* Globalement, ajoutons une transition de base pour tous les éléments */
@@ -47,11 +50,10 @@ main {
 /* Ajout de marges et de bordures aux éléments de contenu */
 .container {
     
-    margin: 0 auto;
+    margin: 0;
     padding: 40px;
     border-radius: 15px;
     background: linear-gradient(135deg, rgba(54, 0, 0, 1), rgba(91, 6, 6, 0.8)); /* Dégradé rouge sombre très prononcé */
-    max-width: 1200px;
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
 }
 
@@ -194,8 +196,25 @@ p:hover {
     margin: 10px 0;
 }
 
+/* Footer */
+footer {
+    font-size: 1em;
+    color: #d4af37;
+    margin-top: 50px;
+    padding: 20px;
+    background-color: #732626;
+    text-align: center;
+    border-top: #d4af37 solid 3px;
+    box-shadow: 0 -4px 10px rgba(0, 0, 0, 0.5);
+}
+
 /* Responsive design : réduire la taille des éléments sur les petits écrans */
 @media (max-width: 980px) {
+
+    body {
+        background-size: cover;
+    }
+
     header {
         font-size: 2em;
     }

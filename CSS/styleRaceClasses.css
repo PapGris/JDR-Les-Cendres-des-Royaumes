@@ -111,6 +111,6 @@ footer {
 /* Responsive design : réduire la taille des éléments sur les petits écrans */
 @media (max-width: 768px) {
     header {
-        font-size: 1.5em;
+        font-size: 1.2em;
     }
 }

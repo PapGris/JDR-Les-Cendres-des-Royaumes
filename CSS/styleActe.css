@@ -55,6 +55,7 @@ main {
     transition: all 0.3s ease-in-out;
 }
 
+
 /* Boutons */
 button {
     background-color: #4a2c2a;
@@ -107,7 +108,7 @@ button:active {
 /* Ajout de marges et de bordures aux éléments de contenu */
 .container {
     margin: 0 auto;
-    
+    margin-bottom: 15px;
     border-radius: 15px;
     background: linear-gradient(135deg, rgba(37, 23, 23, 0.85), rgba(54, 0, 0, 0.9), rgba(15, 15, 15, 0.85)); /* Dégradé de couleurs sombres */
     max-width: 1200px;
@@ -117,10 +118,17 @@ button:active {
 
 /* Paragraphes */
 p {
-    font-size: 1.2em;
+    font-size: 1.4em;
     line-height: 1.8;
     margin: 20px 0;
     color: #ccc;
+    margin: 10px;
+}
+
+li {
+    margin: 10px;
+    font-size: 1.4em;
+    list-style-type: none;
 }
 
 /* Header (H1) */
@@ -144,8 +152,32 @@ h1 {
     box-shadow: 0 8px 20px rgba(0, 0, 0, 0.7); /* Ombre portée autour du texte */
 }
 
+h2 {
+    font-size: 1.7em; /* Taille de police plus petite que pour h1 */
+    font-family: 'Garamond', serif;
+    font-weight: bold;
+    color: #d4af37; /* Or foncé pour créer un contraste */
+    text-shadow: 
+        3px 3px 6px rgba(0, 0, 0, 0.8),   /* Ombre noire pour donner du relief */
+        0 0 25px rgba(255, 87, 34, 0.9),   /* Effet lumineux orangé (flamme) */
+        0 0 50px rgba(255, 87, 34, 0.8),   /* Effet lumineux orange intense */
+        0 0 100px rgba(255, 87, 34, 0.7);  /* Effet de brillance d'une flamme autour du texte */
+    letter-spacing: 2px; /* Espacement des lettres pour accentuer le côté épique */
+    text-transform: uppercase; /* Texte en majuscules pour renforcer le caractère */
+    margin-bottom: 40px;
+    padding: 10px;
+    background: linear-gradient(135deg, rgba(0, 0, 0, 0.8), rgba(54, 0, 0, 0.85)); /* Dégradé sombre en fond */
+    -webkit-background-clip: text; /* Fond dégradé uniquement sur le texte */
+    background-clip: text;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.7); /* Ombre portée autour du texte */
+}
+
+h3, h4 {
+    font-size: 1.4em;
+}
+
 /* Ajouter un léger ombrage aux éléments de texte */
-h2, h3, p {
+h3, p {
     text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.4);
 }
 
@@ -183,12 +215,24 @@ h2, h3, p {
         font-size: 2em;
     }
 
+    h2 {
+        font-size: 1.2em;
+    }
+
+    h3, h4 {
+        font-size: 1.2em;
+    }
+
     button {
         font-size: 1em;
         padding: 10px 18px;
     }
 
     p {
+        font-size: 1em;
+    }
+
+    li {
         font-size: 1em;
     }
 }
