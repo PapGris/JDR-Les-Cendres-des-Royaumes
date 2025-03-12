@@ -103,6 +103,7 @@ p:hover {
 
 li {
     list-style-type: none;
+    margin-right: 40px;
 }
 
 /* Atout et Inconvénient avec icônes stylisées */
