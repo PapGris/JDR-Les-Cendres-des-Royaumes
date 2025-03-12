@@ -3,7 +3,7 @@
 /* Corps de la page */
 body {
     font-family: 'Garamond', serif;
-    background-image: url(../images/backgroundDarkFantaisy.png); /* Image de fond */
+    background-image: url(../../images/backgroundDarkFantaisy.png); /* Image de fond */
     background-position: top 100%;
     background-color: #3b0a45; /* Rouge sombre de fond */
     color: #d4af37; /* Couleur dorée pour le texte */
@@ -99,6 +99,10 @@ p {
 p:hover {
     transform: scale(1.05);
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+}
+
+li {
+    list-style-type: none;
 }
 
 /* Atout et Inconvénient avec icônes stylisées */

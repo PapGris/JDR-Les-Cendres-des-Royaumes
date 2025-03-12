@@ -71,6 +71,7 @@ header {
 }
 
 .retour .btn {
+    margin-top: 25px;
     display: inline-block;
     background-color: #4a2c2a;
     color: #d4af37;

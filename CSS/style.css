@@ -161,6 +161,11 @@ h3, p {
 
 /* Responsive design : réduire la taille des éléments sur les petits écrans */
 @media (max-width: 768px) {
+
+    body {
+        background-size: cover;
+    }
+
     header {
         font-size: 2em;
     }
