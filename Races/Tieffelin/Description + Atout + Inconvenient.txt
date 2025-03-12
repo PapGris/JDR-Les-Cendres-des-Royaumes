@@ -1,0 +1,3 @@
+📜 Description : Descendants d’une lignée démoniaque, les tieffelins possèdent des traits infernaux tels que des cornes, une queue et une peau aux teintes inhabituelles. Leur nature magique leur confère des capacités spéciales, mais ils sont souvent victimes de préjugés et de méfiance.
+✅ Atout : +1 en Charisme, résistance au feu.
+❌ Inconvénient : -1 en Sagesse, souvent en décalage avec la société.

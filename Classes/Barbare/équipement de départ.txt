@@ -1,0 +1,5 @@
+Hache en bois (Dégâts : 1d8)
+Peaux de bêtes (Armure : +1)
+Ceinture renforcée
+1 potion de rage
+Caractéristique : Augmente de 2 points de dégâts et vous donne une résistance de 10% pendant 1 tour.

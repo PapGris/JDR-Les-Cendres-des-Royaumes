@@ -1,0 +1,3 @@
+📜 Description : Petites créatures rusées et espiègles, les gobelins sont d’excellents voleurs et survivants. Leur agilité et leur rapidité leur permettent d’échapper facilement aux dangers. Cependant, leur mauvaise réputation et leur faible constitution les rendent vulnérables.
+✅ Atout : +1 en Dextérité, action bonus pour se désengager ou se cacher.
+❌ Inconvénient : -1 en Constitution, fragiles et peu résistants.

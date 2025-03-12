@@ -1,0 +1,3 @@
+Capacité spéciale : Tir Précis
+Description : Le Rôdeur prend un moment pour viser parfaitement une cible et infliger des dégâts maximaux. Lors d'un tir, il peut relancer son dé de dégâts si le premier jet est inférieur à la moyenne des dégâts de l'arme (ex : si l'arc fait normalement 1d8, relance si vous obtenez moins de 4).
+Condition : Peut être utilisé une fois par repos.

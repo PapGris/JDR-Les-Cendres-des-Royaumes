@@ -1,0 +1,3 @@
+Capacité spéciale : Métamorphose Animale
+Description : Le Druide peut se transformer en une créature animale de son choix (ex : ours, loup, aigle) pour une durée de 3 tours. Chaque forme lui donne un bonus différent : l'ours augmente sa résistance physique, le loup améliore sa vitesse, et l'aigle permet de voler.
+Condition : Peut être utilisé une fois par repos.

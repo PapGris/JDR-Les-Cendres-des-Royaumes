@@ -1,0 +1,3 @@
+📜 Description : Créatures élégantes et raffinées, les elfes sont souvent liés à la nature et à la magie. Leur longévité leur confère une sagesse et une expérience que peu de races possèdent. Ils ont une ouïe et une vue exceptionnelles, notamment dans l'obscurité, et possèdent une agilité naturelle.
+✅ Atout : +1 en Dextérité, vision nocturne jusqu’à 18 mètres.
+❌ Inconvénient : -1 en Constitution, plus fragiles que les autres races.

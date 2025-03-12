@@ -1,0 +1,3 @@
+Capacité spéciale : Aura de Protection
+Description : Le Paladin crée une aura de lumière protectrice autour de lui et de ses alliés dans un rayon de 5 mètres. Pendant 3 tours, tous les alliés dans la zone reçoivent une réduction de 2 points de dégâts par attaque subie.
+Condition : Peut être utilisé une fois par repos.

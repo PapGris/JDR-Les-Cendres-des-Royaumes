@@ -1,0 +1,3 @@
+📜 Description : Les nains sont des êtres robustes, travailleurs et dotés d’un fort sens de l’honneur. Ils vivent souvent sous terre, dans des forteresses taillées à même la roche. Leurs connaissances en forge, en artisanat et en combat sont inégalées. Ils ont également une forte résistance aux poisons et à l’alcool.
+✅ Atout : +1 en Constitution, résistance aux poisons (avantage aux jets de sauvegarde).
+❌ Inconvénient : -1 en Dextérité (les nains sont moins agiles que d'autres races). 

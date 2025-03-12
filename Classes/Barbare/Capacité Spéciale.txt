@@ -1,0 +1,3 @@
+Capacité spéciale : Rage Sauvage
+Description : Le Barbare entre dans une frénésie de rage, augmentant ses capacités physiques. Tant qu'il est en rage, il inflige des dégâts supplémentaires de +2 et résiste à 10% des dégâts physiques subis. Les attaques de mêlée bénéficient d'un jet supplémentaire de 1d6.
+Condition : Peut être utilisé une fois par repos.

@@ -1,0 +1,5 @@
+Épée courte (Dégâts : 1d6)
+Bouclier en bois (Armure : +2)
+Tunique de cuir (Armure : +1)
+3 potions de soin
+Caractéristique : Restaure 10 points de vie.

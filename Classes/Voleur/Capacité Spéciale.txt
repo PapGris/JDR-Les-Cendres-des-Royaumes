@@ -1,0 +1,3 @@
+Capacité spéciale : Attaque Sournoise Améliorée
+Description : Le Voleur inflige des dégâts supplémentaires lorsqu'il attaque une cible qui ne l'a pas vu venir. Si l'attaque touche un ennemi surpris ou qui ne se défend pas, le Voleur inflige 1d6 de dégâts supplémentaires. De plus, il peut se déplacer de 3 mètres après chaque attaque sans être vu.
+Condition : Peut être utilisé chaque fois que la cible est prise au dépourvu ou pendant un tour où le Voleur reste caché.

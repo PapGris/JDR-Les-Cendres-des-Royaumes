@@ -1,0 +1,3 @@
+Capacité spéciale : Explosion Arcanique
+Description : Le Mage peut libérer une décharge magique d'énergie pure. L'attaque touche toutes les cibles dans un rayon de 3 mètres autour de lui. Chaque cible doit effectuer un jet de sauvegarde (difficulté 12). En cas d'échec, elle subit 2d6 de dégâts magiques, et en cas de réussite, elle subit 1d6 de dégâts.
+Condition : Peut être utilisé une fois par repos.

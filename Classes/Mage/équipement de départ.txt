@@ -1,0 +1,6 @@
+Bâton en bois (Dégâts : 1d4)
+Robe simple (Armure : +0)
+Livre de sort (sort de base)
+Bonus : Permet de lancer un sort basique (ex : Boule de feu, Lumière, etc.) une fois par repos.
+3 potions de guérison mineure
+Caractéristique : Restaure 8 points de vie.
