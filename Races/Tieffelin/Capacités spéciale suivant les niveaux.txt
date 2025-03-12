@@ -1,0 +1,6 @@
+📜 Sang infernal
+
+Niveau 3 : +1 en Charisme.
+Niveau 6 : Résistance aux dégâts de feu.
+Niveau 9 : Peut utiliser un sort mineur de feu une fois par repos court.
+Niveau 12 : Une fois par jour, peut imposer un désavantage à un ennemi sur un jet d’attaque.

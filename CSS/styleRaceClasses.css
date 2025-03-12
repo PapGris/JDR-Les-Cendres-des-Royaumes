@@ -1,0 +1,116 @@
+/* Style pour la page des races */
+body {
+    font-family: 'Garamond', serif;
+    background-image: url(../images/backgroundDarkFantaisy.png);
+    background-position: 100%;
+    color: #d4af37;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+/* Header */
+header {
+    font-size: 2em;
+    font-weight: bold;
+    color: #d4af37;
+    margin-bottom: 40px;
+    text-shadow: 
+        3px 3px 6px rgba(0, 0, 0, 0.8),   
+        0 0 25px rgba(255, 87, 34, 0.9),   
+        0 0 50px rgba(255, 87, 34, 0.8),   
+        0 0 100px rgba(255, 87, 34, 0.7);  
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    background: linear-gradient(135deg, rgba(0, 0, 0, 0.8), rgba(54, 0, 0, 0.85));
+    -webkit-background-clip: text;
+    background-clip: text;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.7);
+}
+
+/* Style spécifique pour les boutons de race */
+.races-buttons {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* 2 colonnes */
+    gap: 10px;
+    justify-content: center;
+    margin-top: 50px; /* Espacement du haut */
+    padding: 0 20px;
+    max-width: 50%;
+    margin: auto;
+}
+
+/* Boutons des races */
+.races-buttons a button {
+    background-color: #4a2c2a;
+    color: #d4af37;
+    border: 2px solid #d4af37;
+    padding: 15px 30px;
+    font-size: 1.2em;
+    font-family: 'Garamond', serif;
+    cursor: pointer;
+    margin: 10px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    outline: none;
+    transition: background 0.3s, transform 0.2s, box-shadow 0.2s;
+}
+
+/* Effet au survol des boutons */
+.races-buttons a button:hover {
+    background-color: #732626;
+    transform: translateY(-4px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.4);
+}
+
+/* Effet quand les boutons sont cliqués */
+.races-buttons a button:active {
+    transform: translateY(2px);
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+}
+
+.retour .btn {
+    display: inline-block;
+    background-color: #4a2c2a;
+    color: #d4af37;
+    border: 2px solid #d4af37;
+    padding: 15px 30px;
+    font-size: 1.2em;
+    font-family: 'Garamond', serif;
+    cursor: pointer;
+    border-radius: 8px;
+    text-decoration: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    transition: background 0.3s, transform 0.2s, box-shadow 0.2s;
+}
+
+.retour .btn:hover {
+    background-color: #732626;
+    transform: translateY(-4px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.4);
+}
+
+.retour .btn:active {
+    transform: translateY(2px);
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+}
+
+/* Footer */
+footer {
+    font-size: 1em;
+    color: #d4af37;
+    margin-top: 50px;
+    padding: 20px;
+    background-color: #732626;
+    text-align: center;
+    border-top: #d4af37 solid 3px;
+    box-shadow: 0 -4px 10px rgba(0, 0, 0, 0.5);
+}
+
+/* Responsive design : réduire la taille des éléments sur les petits écrans */
+@media (max-width: 768px) {
+    header {
+        font-size: 1.5em;
+    }
+}

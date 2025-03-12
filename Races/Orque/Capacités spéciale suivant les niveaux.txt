@@ -1,0 +1,6 @@
+📜 Puissance brute
+
+Niveau 3 : +1 en Force.
+Niveau 6 : Peut relancer un jet de dégâts en mêlée une fois par combat.
+Niveau 9 : Gagne une attaque supplémentaire s'il met un ennemi à 0 PV.
+Niveau 12 : Une fois par jour, peut éviter d’être mis à 0 PV et reste à 1 PV.

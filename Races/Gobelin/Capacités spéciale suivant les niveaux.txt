@@ -1,0 +1,6 @@
+📜 Agilité et malice
+
+Niveau 3 : +1 en Dextérité.
+Niveau 6 : Peut se désengager ou se cacher comme action bonus.
+Niveau 9 : Avantage sur les tests de Discrétion.
+Niveau 12 : Peut esquiver une attaque une fois par combat.

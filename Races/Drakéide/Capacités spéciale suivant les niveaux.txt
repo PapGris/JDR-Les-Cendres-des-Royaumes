@@ -1,0 +1,6 @@
+📜 Souffle draconique
+
+Niveau 3 : +1 en Force.
+Niveau 6 : Résistance à un type de dégâts élémentaires.
+Niveau 9 : Son souffle élémentaire inflige +1d6 dégâts.
+Niveau 12 : Peut utiliser son souffle 2 fois avant un repos long.

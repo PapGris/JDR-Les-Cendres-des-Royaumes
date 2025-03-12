@@ -1,0 +1,6 @@
+📜 Endurance et robustesse
+
+Niveau 3 : +1 en Constitution.
+Niveau 6 : Avantage sur les jets de sauvegarde contre poisons et maladies.
+Niveau 9 : Ignore les malus liés aux armures lourdes.
+Niveau 12 : Une fois par combat, peut réduire de moitié les dégâts d'une attaque.

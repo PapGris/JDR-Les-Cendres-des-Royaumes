@@ -1,3 +1,3 @@
 📜 Description : Descendants de dragons ancestraux, les drakéides ont des écailles colorées et un souffle élémentaire dévastateur. Leur prestance et leur fierté font d’eux de puissants guerriers et meneurs. Leur apparence reptilienne les rend néanmoins intimidants pour les autres races.
-✅ Atout : +1 en Force, souffle élémentaire infligeant 2d6 dégâts (type au choix selon l’ascendance draconique).
+✅ Atout : +1 en Force, leur sang draconique, hérité de leurs ancêtres, leur promulgue une force hors du commun.
 ❌ Inconvénient : -1 en Dextérité, leur grande taille et leur poids les rendent moins agiles.

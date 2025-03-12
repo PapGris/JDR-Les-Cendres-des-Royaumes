@@ -1,0 +1,6 @@
+📜 Ruse et intelligence
+
+Niveau 3 : +1 en Intelligence.
+Niveau 6 : Avantage aux tests d’Investigation et d’Artisanat.
+Niveau 9 : Peut lancer un sort mineur d’illusion une fois par repos court.
+Niveau 12 : Résistance aux effets d’illusion et de charme.
