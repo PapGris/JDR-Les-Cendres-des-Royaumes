@@ -22,7 +22,7 @@ header {
 }
 
 img {
-    width: 80%;
+    width: 60%;
 }
 
 main {
@@ -227,10 +227,6 @@ footer {
         font-size: 2em;
     }
 
-    img {
-        width: 50%;
-    }
-    
     button {
         font-size: 1em;
         padding: 10px 18px;
@@ -248,4 +244,5 @@ footer {
         flex-direction: column;
     }
 
+   
 }
